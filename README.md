@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hi there 👋 I'm Laurent
+## 🤔 Who I am
+🔭 I’m currently working on my second year at Epitech, I'm learning C && C++.
+🌱 I also work on some side projects, (front, back, and some algorithms)
+📫 You can reach me with my Discord : Lqvrent#0001
 
+## 💻 GitHub Statistics
+<p align="center">
+    <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=Lqvrent&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"><br>
+</p>
+  
 <!--
 **Lqvrent/Lqvrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
