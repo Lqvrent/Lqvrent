@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Laurent
 ## 🤔 Who I am
-🔭 I’m currently working on my second year at Epitech, I'm learning C && C++.  
-🌱 I also work on some side projects (front, back, and some algorithms).  
+🔭 I’m currently working on my third year at Epitech, I'm mastered C and currently work on C++.  
+🌱 I also work on some side projects (front, back, some algorithms).  
 📫 You can reach me with my Discord : Lqvrent#0001  
 
 ## 💻 GitHub Statistics
