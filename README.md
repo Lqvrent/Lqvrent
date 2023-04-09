@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Laurent
 ## 🤔 Who I am
-🔭 I’m currently working on my third year at Epitech, I've mastered C and currently work on C++.  
-🌱 I also work on some side projects (front, back, some algorithms, devops and sysadmin).  
-📫 You can reach me with my Discord : Lqvrent#0001  
+🔭 I’m currently working on my fourth year at Epitech.<br />
+🌱 I also work on some side projects (currently in fullstack webapps and devops/sysadmin)<br />
+📫 You can reach me with my Discord: Lqvrent#0001
 
 ## 💻 GitHub Statistics
 <p align="center">
