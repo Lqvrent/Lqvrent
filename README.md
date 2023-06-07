@@ -2,7 +2,7 @@
 ## 🤔 Who I am
 🔭 I’m currently working on my fourth year at Epitech.<br />
 🌱 I also work on some side projects (currently in fullstack webapps and devops/sysadmin)<br />
-📫 You can reach me with my Discord: Lqvrent#0001
+📫 You can reach me with my Discord: @lqvrent
 
 ## 💻 Statistics
 | <img src="https://github-readme-stats.vercel.app/api?username=Lqvrent&show_icons=true&count_private=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lqvrent"/> |
