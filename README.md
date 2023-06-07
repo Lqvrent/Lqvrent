@@ -4,10 +4,9 @@
 🌱 I also work on some side projects (currently in fullstack webapps and devops/sysadmin)<br />
 📫 You can reach me with my Discord: Lqvrent#0001
 
-## 💻 GitHub Statistics
-<p align="center">
-    <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=Lqvrent&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"><br>
-</p>
+## 💻 Statistics
+| <img src="https://github-readme-stats.vercel.app/api?username=Lqvrent&show_icons=true&count_private=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lqvrent"/> |
+|:------------:|:------------:|
   
 <!--
 **Lqvrent/Lqvrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
