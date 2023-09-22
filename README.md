@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Laurent
 ## 🤔 Who I am
-🔭 I’m currently working on my fourth year at Epitech.<br />
-🌱 I also work on some side projects (currently in fullstack webapps and devops/sysadmin)<br />
-📫 You can reach me with my Discord: @lqvrent
+🔭 I’m currently in my fourth year of my Master's degree program in San Francisco.<br />
+🌱 I also work on side projects, currently focusing on mobile application development.<br />
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/lqvrent/) or Discord (@lqvrent).
 
 ## 💻 Statistics
 | <img src="https://github-readme-stats.vercel.app/api?username=Lqvrent&show_icons=true&count_private=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lqvrent"/> |
