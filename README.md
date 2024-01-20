@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Laurent
 ## 🤔 Who I am
 🛠 I have been developing websites, softwares, and web applications for businesses since I was 14 years old.<br />
-🔭 I’m currently in my fourth year of my Master's degree program in San Francisco.<br />
-📫 You can reach me via [my website](https://lqvrent.com) or on Discord (@lqvrent).
+📫 You can reach me via [my website](https://lqvrent.com) or on Discord (@lqvrent).<br />
+🔭 I’m currently in my fourth year of my Master's degree program in San Francisco.
 
 ## 💻 Statistics
 | <img src="https://github-readme-stats.vercel.app/api?username=Lqvrent&show_icons=true&count_private=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lqvrent"/> |
