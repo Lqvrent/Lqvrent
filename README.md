@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Laurent
 ## 🤔 Who I am
-🛠 I have been developing websites, softwares, and web applications for businesses since I was 14 years old.
+🛠 I have been developing websites, softwares, and web applications for businesses since I was 14 years old.<br />
 🔭 I’m currently in my fourth year of my Master's degree program in San Francisco.<br />
 📫 You can reach me via [my website](https://lqvrent.com) or on Discord (@lqvrent).
 
